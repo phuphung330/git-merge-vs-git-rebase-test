@@ -1,3 +1,5 @@
 commit C1
 
 commit C2
+
+commit B2
