@@ -2,6 +2,10 @@ commit C1
 
 commit C2
 
+<<<<<<< HEAD
 commit C3 
 
 commit C4
+=======
+commit B2
+>>>>>>> beta1
